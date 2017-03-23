@@ -1,2 +1,4 @@
 Expert Odoo
 Expert Dolibarr
+Expert JavaScript
+Expert Angular
